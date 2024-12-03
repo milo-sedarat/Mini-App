@@ -1,0 +1,15 @@
+E:\C#\MiniApp\MiniApp\bin\Debug\net8.0\MiniApp.exe
+E:\C#\MiniApp\MiniApp\bin\Debug\net8.0\MiniApp.deps.json
+E:\C#\MiniApp\MiniApp\bin\Debug\net8.0\MiniApp.runtimeconfig.json
+E:\C#\MiniApp\MiniApp\bin\Debug\net8.0\MiniApp.dll
+E:\C#\MiniApp\MiniApp\bin\Debug\net8.0\MiniApp.pdb
+E:\C#\MiniApp\MiniApp\obj\Debug\net8.0\MiniApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\MiniApp\MiniApp\obj\Debug\net8.0\MiniApp.AssemblyInfoInputs.cache
+E:\C#\MiniApp\MiniApp\obj\Debug\net8.0\MiniApp.AssemblyInfo.cs
+E:\C#\MiniApp\MiniApp\obj\Debug\net8.0\MiniApp.csproj.CoreCompileInputs.cache
+E:\C#\MiniApp\MiniApp\obj\Debug\net8.0\MiniApp.dll
+E:\C#\MiniApp\MiniApp\obj\Debug\net8.0\refint\MiniApp.dll
+E:\C#\MiniApp\MiniApp\obj\Debug\net8.0\MiniApp.pdb
+E:\C#\MiniApp\MiniApp\obj\Debug\net8.0\MiniApp.genruntimeconfig.cache
+E:\C#\MiniApp\MiniApp\obj\Debug\net8.0\ref\MiniApp.dll
+E:\C#\MiniApp\MiniApp\obj\Debug\net8.0\MiniApp.sourcelink.json
